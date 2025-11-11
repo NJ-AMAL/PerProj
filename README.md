@@ -1,4 +1,4 @@
-# 🛰️ PerProj — Wireless Signal Modulation Classification
+# 🛰️ AMAL_NAJIMI_radioML2018 — Wireless Signal Modulation Classification
 
 ## 📘 Introduction
 **PerProj** is a machine learning and deep learning project focused on the **classification of wireless signal modulation types**.  
